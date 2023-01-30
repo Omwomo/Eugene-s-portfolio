@@ -93,6 +93,7 @@ h7 {
     font-size: 250%;
     font-style: italic;
     font-family:cursive;
+    text-decoration: underline;
 }
 .stylish {
     font-family:cursive;
@@ -100,6 +101,7 @@ h7 {
     font-style: italic;
     color: rgb(57, 82, 12);
     font-size: 120%;
+    font-weight: bold;
 }
 p {
     text-align: center;
