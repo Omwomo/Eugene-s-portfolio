@@ -96,11 +96,9 @@ h7 {
     text-decoration: underline;
 }
 .stylish {
-    font-family:cursive;
-    font-stretch:wider ;
+    font-size: 130%;
     font-style: italic;
-    color: rgb(57, 82, 12);
-    font-size: 120%;
+    font-family:cursive;
     font-weight: bold;
 }
 p {
